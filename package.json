@@ -1,0 +1,30 @@
+{
+  "name": "telegram-bot-dialog-system",
+  "version": "1.0.0",
+  "description": "The Dialog System for Bots with the Basic Telegram API implementation.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GofSoftware/telegram-bot-dialog-system.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "API",
+    "Dialog"
+  ],
+  "author": "Vitalii Sliesarenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GofSoftware/telegram-bot-dialog-system/issues"
+  },
+  "homepage": "https://github.com/GofSoftware/telegram-bot-dialog-system#readme",
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "firebase-admin": "^12.2.0",
+    "typescript": "^5.5.3"
+  }
+}
